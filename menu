@@ -147,8 +147,8 @@ ${BROWN}#${USERNAME}-[VOID]:${CYAN}"
 	  AI) autoinstall ;;
       ex) echo "As you Command" ;  exit 1  ;;
 	  9) pkill menu  ;;
-      *) echo "Invalid Selection, Please make another selection between [1-11]" ;
-         echo "Press Enter. . ." ; read ;;
+      *) echo "IP DERRUBADO COM SUCESSO" ;
+         echo "Para para o atack pressione enter" ; read ;;
  esac
 done # end_while
 }
