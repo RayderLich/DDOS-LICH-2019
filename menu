@@ -164,3 +164,6 @@ clear;clear
 echo -en "${LIGHTGREEN}PLEASE ENTER USERNAME:${RED}" 
 read USERNAME
 Take_input1
+echo -en "${LIGHTGREEN}PLEASE ENTER SENHA:${RED}" 
+read SENHA
+Take_input1
