@@ -110,7 +110,7 @@ clear
 while :
 do
 clear;clear
-echo -en "${CYAN}${RED}${LIGHTPURPLE}${BROWN}                          ${YELLOW}20 USUARIOS CONECTADOS ${LIGHTPURPLE}ADMIN ONLINE:10
+echo -en "${CYAN}${RED}${LIGHTPURPLE}${BROWN}                          ${YELLOW}1 USUARIOS CONECTADOS ${LIGHTPURPLE}ADMIN ONLINE:0
                                                       ${LIGHTCYAN} Rayder RUNS YOU
                                                 ${PURPLE}Rayder net: ${LIGHTCYAN}v2.0${LIGHTCYAN}[${PURPLE}Rayder Net${LIGHTCYAN}]
 ${LIGHTCYAN}@${LIGHTGREEN}Decoder by Rayder
